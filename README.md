@@ -37,4 +37,4 @@ including
 - the Ohio Scientific Challenger 1P.
 
 The libraries are fairly portable, so creating a version for other 6502s
-shouldn't be too much work.
+should not be too much work.
